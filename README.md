@@ -8,6 +8,10 @@ It turns **raw data → insights → decisions** through analytics + visualizati
 
 ---
 
+## Live link: https://ai-analytics-studio.streamlit.app/
+
+---
+
 ## ✨ Features
 
 📁 **Smart Data Upload**
@@ -99,8 +103,7 @@ It turns **raw data → insights → decisions** through analytics + visualizati
 AI-Data-Storytelling/
 │── app.py
 │── requirements.txt
-│── .env.example
-│── sample_data.csv
+│── .env
 │── utils/
 │   ├── data_analyzer.py
 │   ├── insight_engine.py
@@ -121,38 +124,18 @@ git clone https://github.com/sarthak-raj08/ai-data-storytelling-assistant.git
 cd ai-data-storytelling-assistant
 ```
 
-### 2️⃣ Create virtual environment
-
-```bash
-python -m venv venv
-```
-
-### 3️⃣ Activate virtual environment
-
-Windows:
-
-```bash
-venv\Scripts\activate
-```
-
-Mac/Linux:
-
-```bash
-source venv/bin/activate
-```
-
-### 4️⃣ Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### 5️⃣ Create environment variables
+### 2️⃣ Create environment variables
 
 Create `.env` file:
 
 ```env
-GROQ_API_KEY=your_api_key_here
+GROQ_API_KEY="your_api_key_here"
+```
+
+### 3️⃣ Install dependencies
+
+```bash
+pip install -r requirements.txt
 ```
 
 ---
@@ -160,7 +143,7 @@ GROQ_API_KEY=your_api_key_here
 ## ▶️ Run the Application
 
 ```bash
-streamlit run app.py
+python -m streamlit run app.py
 ```
 
 ---
