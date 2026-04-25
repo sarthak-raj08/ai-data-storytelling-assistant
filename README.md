@@ -203,7 +203,6 @@ __pycache__/
 ---
 
 ## 🚀 Future Improvements
-
 🔹 Voice-based insights
 🔹 Real-time dashboard updates
 🔹 Multi-file dataset comparison
@@ -214,14 +213,12 @@ __pycache__/
 ---
 
 ## 🤝 Contributing
-
 Contributions are welcome!
 Feel free to fork this repository and submit a pull request.
 
 ---
 
 ## ⭐ Support
-
 If you found this project useful:
 
 🌟 Star this repository
