@@ -2,29 +2,6 @@
 
 ### *Transforming Raw Data into Actionable Business Intelligence with AI*
 
-## 🛠 Tech Stack
-
-<div align="center">
-
-### 🚀 Languages & Core Libraries  
-<img src="https://skillicons.dev/icons?i=python" />
-<img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-
-### 📊 Visualization & Dashboard  
-<img src="https://img.shields.io/badge/Matplotlib-Visualization-orange?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Seaborn-Statistical%20Plots-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Plotly-Interactive%20Charts-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
-<img src="https://skillicons.dev/icons?i=streamlit" />
-
-### 🤖 AI & API  
-<img src="https://img.shields.io/badge/Groq-AI%20Inference-black?style=for-the-badge" />
-
-### 🛠 Tools & Version Control  
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-
-</div>
-
 🚀 **AI Data Analytics Studio** is an intelligent data storytelling platform that helps users upload datasets and automatically generate insights, visualizations, AI-powered narratives, and business recommendations.
 
 It turns **raw data → insights → decisions** through analytics + visualization + AI reasoning.
@@ -81,13 +58,26 @@ It turns **raw data → insights → decisions** through analytics + visualizati
 
 ## 🛠 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,streamlit,matplotlib" />
-</p>
+<div align="left">
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
+### 🚀 Languages & Core Libraries  
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+
+### 📊 Visualization & Dashboard  
+<img src="https://img.shields.io/badge/Matplotlib-Visualization-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Seaborn-Statistical%20Plots-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Plotly-Interactive%20Charts-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=streamlit" />
+
+### 🤖 AI & API  
+<img src="https://img.shields.io/badge/Groq-AI%20Inference-black?style=for-the-badge" />
+
+### 🛠 Tools & Version Control  
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
+</div>
 
 ### ⚡ Core Technologies
 
