@@ -2,6 +2,29 @@
 
 ### *Transforming Raw Data into Actionable Business Intelligence with AI*
 
+## 🛠 Tech Stack
+
+<div align="center">
+
+### 🚀 Languages & Core Libraries  
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+
+### 📊 Visualization & Dashboard  
+<img src="https://img.shields.io/badge/Matplotlib-Visualization-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Seaborn-Statistical%20Plots-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Plotly-Interactive%20Charts-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=streamlit" />
+
+### 🤖 AI & API  
+<img src="https://img.shields.io/badge/Groq-AI%20Inference-black?style=for-the-badge" />
+
+### 🛠 Tools & Version Control  
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
+</div>
+
 🚀 **AI Data Analytics Studio** is an intelligent data storytelling platform that helps users upload datasets and automatically generate insights, visualizations, AI-powered narratives, and business recommendations.
 
 It turns **raw data → insights → decisions** through analytics + visualization + AI reasoning.
@@ -58,28 +81,25 @@ It turns **raw data → insights → decisions** through analytics + visualizati
 
 ## 🛠 Tech Stack
 
-### Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,streamlit,matplotlib" />
+</p>
 
-* 🎯 Streamlit
-* 📊 Plotly
-* 🎨 Custom CSS (Glassmorphism UI)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
-### Backend
+### ⚡ Core Technologies
 
-* 🐍 Python
-* 🐼 Pandas
-* 🔢 NumPy
-* 📉 Matplotlib
-* 🌊 Seaborn
-
-### AI Integration
-
-* ⚡ Groq API
-* 🧠 LLaMA Models
-
-### Report Generation
-
-* 📄 FPDF
+| Category           | Technologies                |
+| ------------------ | --------------------------- |
+| 🐍 Programming     | Python                      |
+| 📊 Data Analysis   | Pandas, NumPy               |
+| 📈 Visualization   | Matplotlib, Seaborn, Plotly |
+| 🎯 Dashboard       | Streamlit                   |
+| 🤖 AI Engine       | Groq API, LLaMA Models      |
+| 📄 Reporting       | FPDF                        |
+| 🔧 Version Control | Git, GitHub                 |
 
 ---
 
@@ -150,7 +170,7 @@ GROQ_API_KEY=your_api_key_here
 ## ▶️ Run the Application
 
 ```bash
-python -m streamlit run app.py
+streamlit run app.py
 ```
 
 ---
