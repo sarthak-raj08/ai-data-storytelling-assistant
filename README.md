@@ -125,7 +125,7 @@ using analytics, visualization, and AI reasoning.
 ### 🎯 Dashboard Framework
 
 <p>
-<img src="https://skillicons.dev/icons?i=streamlit" />
+<img src="https://img.shields.io/badge/Streamlit-Dashboard-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 </p>
 
 ---
